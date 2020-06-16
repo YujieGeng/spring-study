@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-04-di/target/
+/spring-05-Autowired/target/
+/target/
